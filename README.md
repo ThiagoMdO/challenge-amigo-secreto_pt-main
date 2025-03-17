@@ -1,7 +1,7 @@
 
 # Challenge Amigo Secreto
 
-O desafio Amigo Secreto faz parte da trilha de estudo formação ONE da Oracle em parceiria com a Alura.
+O desafio Amigo Secreto faz parte da trilha de estudo formação ONE da Oracle em parceria com a Alura.
 
 > ### A aplicação é responsavel por inserir amigos em uma lista e sortear um por vez para ser o amigo secreto da vez.
 
